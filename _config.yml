@@ -1,0 +1,6 @@
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: [MIDI Controller]
+description: [A project to build a minimalistic and open source MIDI controller for my piano using Arduino.]
