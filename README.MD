@@ -29,7 +29,7 @@ The five potentiometers are mapped to the following control change messages:
 - Pot 4: CC 10
 - Pot 5: CC 11
 
-
+![image](./assets/Midi%20Interface%20Circuit.png)
 
 ## Hardware Requirements
 
