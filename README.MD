@@ -208,10 +208,57 @@ Common issues and solutions:
    - Check button connections
    - Verify pull-up resistor configuration
 
+
 ## Contributing
 
 Contributions are welcome! Please feel free to create a fork and submit a pull request.
 
-## License
+## Changelog:
+<table>
+    <tr>
+        <th>Version</th>
+        <th>Changes</th>
+    </tr>
+    <tr>
+        <td>v0.0.1</td>
+        <td>Initial release</td>
+    </tr>
+    <tr>
+        <td>v0.0.2</td>
+        <td>Added logarithmic scaling to potentiometers</td>
+    </tr>
+    <tr>
+        <td>v0.0.3</td>
+        <td>Added exponential moving average filtering to potentiometers</td>
+    </tr>
+    <tr>
+        <td>v0.0.4</td>
+        <td>Added debounce delay to buttons</td>
+    </tr>
+    <tr>
+        <td>v0.0.5</td>
+        <td>Added toggle button for All Sound Off (CC 120)</td>
+    </tr>
+    <tr>
+        <td>v0.0.6</td>
+        <td>Added activity, state and power LED</td>
+    </tr>
+    <tr>
+        <td>v0.0.7</td>
+        <td>Switched to matrix based layout</td>
+    </tr>
+    <tr>
+        <td>v0.0.8</td>
+        <td>Added long press functionality to buttons</td>
+    </tr>
+    <tr>
+        <td>v0.0.9</td>
+        <td>Added tap tempo functionality</td>
+    </tr>
+    <tr>
+        <td>v0.0.10</td>
+        <td>Added tap tempo LED functionality</td>
+    </tr>
+</table>
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
