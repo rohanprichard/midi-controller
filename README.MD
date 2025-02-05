@@ -262,3 +262,5 @@ Contributions are welcome! Please feel free to create a fork and submit a pull r
 </table>
 
 ## License
+
+MIT License - see the [LICENSE](LICENSE) for details
